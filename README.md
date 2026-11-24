@@ -1,201 +1,1095 @@
- 
-<!doctype html>
-<html lang="pt-BR"><head><script>window["__codeletBootstrap__"]=JSON.parse('{"A":"A","B":"20261123-04-bb5fc38","C":{"ABeeZee":"YADK31-VBBc,1","Abel":"YAHO2Ehol3g,0","Abhaya Libre":"YAFdJvwa-l0,0","Abril Fatface":"YACgEZbkUVE,0","Aclonica":"YAHO2OEKYj0,0","Acme":"YAHO2Gflqzo,0","Actor":"YAHO2N0IV_4,0","Adamina":"YAHO2Ko8ddg,0","Advent Pro":"YAFdJvNZdCk,0","Afacad":"YAHO2HaK_fU,0","Afacad Flux":"YAHO2DjbA6Y,0","Agrandir":"YAFdJpYuLss,0","Agrandir Grand":"YAFdJnQq22A,0","Aileron":"YAFdJn5d8s0,0","Akshar":"YAGWNF0jApg,0","akzidenz-grotesk":"YAFcfhwp99E,0","Alata":"YAD1aLikJo8,0","Albert Sans":"YAHO2HRfeh4,0","Alegreya":"YAFdJs07v-8,0","Alegreya Sans":"YAFdJvgJ5TU,0","Alegreya Sans SC":"YAFdJuaTEaM,0","Alegreya SC":"YACgEen8jXo,0","Aleo":"YAFdJg_txOU,0","Alex Brush":"YAE2gr0Mbng,0","Alexandria":"YAGVt-AWBcU,0","Alfa Slab One":"YACgEYS9sJU,0","Alice":"YALBszUSD-E,0","Alike":"YACgEdeqDWI,0","Allison":"YAG5KfE49h8,0","Allura":"YACgEap1YR0,0","Almarai":"YAFdJuZe0mI,0","Almendra":"YAHO2Dyhotk,0","Alumni Sans":"YAHO2DByoho,0","Alyamama":"YAHMLFefkMM,0","Amaranth":"YACgEaBTFMQ,0","Amatic SC":"YACgEbSBm0k,0","Amiri":"YAEWgjWFb1M,0","Amiri Quran":"YAHO2Enz6cg,0","Amita":"YADK309xYYo,1","Andika":"YACkoFAye4w,0","Anek Bangla":"YAGVuloYrvI,0","Anek Gujarati":"YAHO2NTD_LM,0","Anek Latin":"YAHO2C6lVnU,0","Anek Malayalam":"YAHO2JwdTAg,0","Anek Telugu":"YAHO2KVu8lI,0","Angsana New":"YAFcflTHDNQ,0","Anonymous Pro":"YACgEV9owk4,0","Antic":"YACgEeT8btw,0","Antic Didone":"YADK37j5kj0,0","Antic Slab":"YAHO2HJeTP0,0","Anton":"YACgEcYqQ-A,0","Antonio":"YAFdJjZxcpY,0","Anuphan":"YAHO2IhZ4E0,0","Anybody":"YAHO2MTsics,0","Aptos":"YAGi2jFvvq4,1","Arapey":"YADK32AK2Uk,1","Arbutus Slab":"YADK3z8rjvs,0","Architects Daughter":"YACgEc9BFCs,0","Archive":"YAD0s3O1iG4,1","Archivo":"YAHO2-t-jNE,0","Archivo Black":"YACgEZulLoA,0","Archivo Narrow":"YACgEa-oJH8,0","Aref Ruqaa":"YAHO2NMqGdM,0","Arial":"YAGyDvJ_4Ts,0","Arial Nova":"YAFcflVm6HM,0","Arima":"YAHMLEO2aZY,0","Arimo":"YACgEZ1cb1Q,0","Arsenal":"YADK3_DWcOc,0","Arsenal SC":"YAHO2BfKrb0,0","Arvo":"YACgEf17hXM,0","Asap":"YAFdJr0OaFw,0","Asap Condensed":"YAD1fmY3NpE,0","Assistant":"YAFdtfahXt8,0","Asul":"YAHO2ADJIM8,0","Athiti":"YAFdJnV1R9U,0","Atkinson Hyperlegible":"YAFge7Z-F6s,0","Atkinson Hyperlegible Mono":"YAHO2IygCXM,0","Atkinson Hyperlegible Next":"YAHO2IeQVB0,0","Audiowide":"YAHO2MsoafU,0","Avenir":"YAFcfmNq6UY,0","Average":"YAHO2OL2sMo,0","Azeret Mono":"YAHO2EIdDP0,0","B612":"YAD1b-1Hfc8,0","Bacasime Antique":"YAHO2JjJq4o,0","Bad Script":"YADK31ojH6A,1","Bagel Fat One":"YAFyG3A11Bw,0","Bai Jamjuree":"YAFdJjI5olU,0","Ballet":"YAGXhJ7-dYY,0","Baloo 2":"YAHO2IcQUcM,0","Baloo Bhai 2":"YAHO2IFnsSQ,0","Baloo Bhaijaan 2":"YAHO2NwTj3Y,0","Baloo Chettan 2":"YAHO2M8yj2k,0","Baloo Da 2":"YAHO2LicHPY,0","Baloo Paaji 2":"YAHO2NEYVDY,0","Baloo Tamma 2":"YAHO2H3zy38,0","Baloo Thambi 2":"YAHO2FzxyTU,0","Balsamiq Sans":"YAE3C_w4eo8,0","Bangers":"YAD5qTdjGKo,1","Barlow":"YAFdJsyuOPM,1","Barlow Condensed":"YAFdJljEuFc,0","Barlow Semi Condensed":"YAFdJu55qXI,0","Baskervville":"YAHO2JTYNKo,0","Be Vietnam":"YAFdJvSWHmc,0","Beau Rivage":"YAHO2NDDGu0,0","Bebas Neue":"YACgESME5ew,0","Belanosima":"YAHO2KW8vyU,0","Bellefair":"YADSJ8TFXwA,0","Belleza":"YADK3w_fTc4,0","Bellota Text":"YAHO2JzigLo,0","BenchNine":"YAHO2Gl7yMc,0","Bentham":"YADK3_BbjXo,0","Berkshire Swash":"YACgEa7uPMI,0","Besley":"YAHO2BTXWYc,0","Beth Ellen":"YAD1b5m4a2U,0","Bevan":"YACkoDaMIbc,0","Big Shoulders Display":"YAFdJs8L2aw,0","BioRhyme":"YAHO2OnVvkA,0","Birthstone":"YAGXhLyeE6I,0","Biryani":"YAFdtZ_PRAs,0","Bitter":"YACkoOF0Xck,0","BIZ UDPGothic":"YAGWY3VAK4Q,0","Black Mango":"YAFdJkJYP7I,1","Black Ops One":"YACgEaY4FIU,0","Blinker":"YAFdJoBYX9o,0","Bodoni Moda":"YAHO2C7VUJE,0","Boldonse":"YAHXbGMR2YM,0","Boogaloo":"YAHO2MTwH5g,0","Borel":"YAFyL1DOvfo,0","Bowlby One":"YAHO2EunPos,0","Bowlby One SC":"YAHO2J38FUs,0","Braah One":"YAHO2Ag4_wQ,0","Brake":"YAECFhPpDI8,0","Breathing":"YAEl409VGBQ,0","Bree Serif":"YACkoD1yZN0,0","Bricolage Grotesque":"YAFyMcdwzpc,0","Bricolage Grotesque Condensed":"YAFyMaVjTlw,0","Brightwall":"YAEl49DnZBU,0","Browallia New":"YAFcf0GWFlE,0","Bruno Ace SC":"YAHO2BP7y3k,0","Bubblegum Sans":"YAHO2JdFc_U,0","Bungee":"YALBszL9wLA,0","Bungee Outline":"YALBsyhE_6k,0","Bungee Shade":"YACkoPYyrRk,0","Cabin":"YAFdJnEgsb0,0","Cabin Condensed":"YAHO2F-FVVw,0","Cairo":"YAFdtXpDzlQ,0","Cal Sans":"YAHO2GqQss4,0","Caladea":"YAD1hHx0kVU,0","Calibri":"YAFcfhdOoGk,0","Calistoga":"YAD1aIFxe3I,1","Cambria":"YAFcfgNlM2Y,0","Cantarell":"YAHO2LSCGX4,0","Canva Sans":"YAFdJjTk5UU,1","Canva Sans Display":"YAFTjyMT8Hc,0","Caprasimo":"YAHO2PYTkbo,0","Capriola":"YALBs4liG7k,0","Cardo":"YACkoGIT9qo,0","Carlito":"YACkoIZXsrc,0","Carter One":"YACgEZJ1Flw,0","Cascadia Code":"YAHO2TBzHlE,0","Cascadia Mono":"YAHO2QKvf6g,0","Castoro":"YAHO2cDcmVM,0","Catamaran":"YAFdJhPTLAc,0","Catchy Mager":"YAEZxhW1Plk,0","Caveat":"YALBs2ploWQ,0","Caveat Brush":"YALBs8ZVRhw,0","Cedarville Cursive":"YAHO2UrHGFQ,0","Century Gothic Paneuropean":"YAFcfhkwO-0,0","Chakra Petch":"YAD1fCkY3IQ,0","Changa":"YAFdJtbG8fw,0","Changa One":"YAHO2WdsbtM,0","Chango":"YADK37RW0po,0","Charis SIL":"YAGvf-G3GGU,0","Charm":"YAD1b_s4o-w,0","Chelsea Market":"YAHO2UOd5sY,0","Cherry Bomb One":"YAFyMfi5fyQ,0","Cherry Swash":"YAHO2RnHe3o,0","Chewy":"YACgEZfALnA,0","Chiron GoRound TC":"YAHO2Vkw-3A,0","Chivo":"YAHO2WvGfDs,0","Chivo Mono":"YAHO2Qd3y5g,0","Chocolate Classical Sans":"YAHO2Rxoh6A,0","Chonburi":"YALBsz_RTwU,0","Cinzel":"YACgEeV8bIQ,0","Cinzel Decorative":"YAEe9XbWpNs,0","Circe":"YAEw10H5958,0","Clear Sans":"YAFdJoLIdPI,0","Climate Crisis":"YAFdJnbiwgQ,0","Cocomat Pro":"YAFdJu9rg-E,0","Coiny":"YACkoOrpjtg,0","Comfortaa":"YAFdJoWmhxU,0","Comic Neue":"YAHO2VMiyZo,0","Comic Sans MS":"YAFcfvtOAUY,1","Coming Soon":"YACgEQDqBLk,0","Commissioner":"YAHO2RRI-KE,0","Concert One":"YAFyG1vOkaw,0","Consolas":"YAFcfu6YYdE,0","Cookie":"YAHO2TxA9Mk,0","Cooper Hewitt":"YAFdJsxY6B0,0","Corben":"YADK3waYnkQ,2","Cordia New":"YAFcf2VdcIk,0","Cormorant Garamond":"YAFdJhX-538,0","Cormorant Infant":"YAHO2cgbXjc,0","Cormorant SC":"YAFdJg7KuRM,0","Cormorant Unicase":"YAHO2b4ohVo,0","Cormorant Upright":"YAHO2ZEBi5c,0","Courgette":"YACgEU5nS9M,0","Courier New":"YAGzXiGs0_8,0","Courier Prime":"YAD1aFjegN8,0","Cousine":"YADK35VyDYU,0","Covered By Your Grace":"YAHO2drjx38,0","Crete Round":"YAHO2Uu9SvI,0","Crimson Pro":"YAFdJsEGkW0,0","Crimson Text":"YAHO2RsfBzg,0","Cuprum":"YACkoB3fESg,0","Cutive":"YADK334gwRI,0","Cutive Mono":"YAHO2cov6H4,0","Damion":"YAHO2SxDErM,0","Dancing Script":"YALBs2pfuW0,0","Darker Grotesque":"YAD1acp_tgc,1","David Libre":"YAFdJop2L90,0","DejaVu Sans":"YAFdtfpl0Yc,0","Delius":"YAHO2f1B8B4,0","Dhurjati":"YAHO2RElIME,0","Didact Gothic":"YALBs-mIj2o,0","DM Mono":"YAHO2SGpw0w,0","DM Sans":"YAD1aU3sLnI,0","DM Serif Display":"YAD1aYG82rc,0","Domine":"YAHO2bbCOA4,0","Dongle":"YAGXDU1dmuc,0","Doppio One":"YAHO2ckhWaI,0","Dosis":"YAFdte3F-n0,1","DotGothic16":"YAHO2fxQNHM,0","Droid Arabic Naskh":"YACkoKkaqXA,0","Droid Serif":"YACgEdYQidM,0","DynaPuff":"YAFyMRnxBDs,0","East Sea Dokdo":"YAHO2V39uyM,0","Eater":"YAHO2VpLF0c,0","EB Garamond":"YAFdJtfMD6Y,0","Economica":"YACgEeIOo5w,0","Eczar":"YAFdJrnVElk,0","Edo":"YADoUIDNzaE,1","Edu NSW ACT Cursive":"YAHO2UbwD8o,0","Edu SA Beginner":"YAHO2bMcrTo,0","El Messiri":"YAFdJoZarj8,0","Electrolize":"YAHO2RdxxhE,0","Elsie":"YAHO2XlmbCo,0","Encode Sans":"YAHO2R-vLyo,0","Encode Sans Condensed":"YAHO2RQWhbg,0","Epilogue":"YAHO2WWHRqI,0","Exo":"YAHO2c15ncY,0","Exo 2":"YAFdJor4M6A,1","Faculty Glyphic":"YAHO2ZuH1NQ,0","Fahkwang":"YAFdJp0SJos,0","Familjen Grotesk":"YAHO2ZriIzU,0","Fauna One":"YAHO2Y8x8zg,0","Faustina":"YAFdJnqy8Oc,0","feather":"YAFdJjALMPk,0","Figtree":"YAHO2b-mV7A,0","Finger Paint":"YADK3wExL94,0","Fira Code":"YAFdJsxBlTg,0","Fira Mono":"YAHO2bTKfjg,0","Fira Sans":"YAFdJnJKOPE,0","Fira Sans Condensed":"YAHMLJN-FcA,0","Fira Sans Extra Condensed":"YAHMLGqUb6Q,0","Fjalla One":"YAHO2VMyTKw,0","Fondamento":"YAHO2X_okmA,0","Forum":"YACgEcnnqB4,0","Fragment Mono":"YAHO2ZlYXZc,0","Francois One":"YADK3zbC6RM,0","Frank Ruhl Libre":"YAFdJiGIKxQ,0","Fraunces":"YAFdJpU7Kkk,0","Freckle Face":"YALBszwFbJg,0","Fredoka":"YACgEZml080,0","Freehand":"YACkoAZmUSg,0","Frutiger":"YAFcf7IGSfk,0","Fugaz One":"YAHO2f5L5K0,0","Funnel Display":"YAHO2TmVuEs,0","Funnel Sans":"YAHO2R0FK5U,0","Futura":"YAFcfgcNhWk,3","Gabarito":"YAHO2cD3JmI,0","Gaegu":"YAFdJj615Ls,0","Gamja Flower":"YADK39n_eyc,0","Gantari":"YAHO2WveuBo,0","Garamond":"YAFcfhlhK9c,0","Garet":"YAFdJi-0PQg,0","Gasoek One":"YAFyMaznfGo,0","Geist":"YAHO2SfKS30,0","Geist Mono":"YAHO2XOe8v8,0","Gelasio":"YAHO2e426-k,0","Gentium Book Plus":"YAHO2b-adyU,0","Gentium Plus":"YAGvf3_u0_Q,0","Geologica":"YAHMLpZ3y5c,0","Geom":"YAHMLFz7unQ,0","Georama":"YAHO21l9KR8,0","Georgia":"YAGzXkO0pEM,0","GFS Didot":"YADK39vXpyU,0","Gilda Display":"YADK34sD2QM,0","Gill Sans":"YAFcfnt9wqI,0","Gilroy":"YAFcf0f10mQ,0","Gistesy":"YAEEKKQrAAg,0","Glacial Indifference":"YACgETiWKS8,0","Gloock":"YAHO2WVhd0Q,0","Gloria Hallelujah":"YALBs50JjRs,0","Gochi Hand":"YACgEWWPgRQ,0","Gogol":"YAEw1oJoCwQ,0","Golden Hopes":"YAHNdVsGdn0,0","Goldman":"YAHO2TATES8,0","Golos Text":"YAHO2QlqAQk,0","Google Sans":"YAHO2dYZ4Uw,0","Google Sans Code":"YAHO2XdQwlA,0","Google Sans Flex":"YAHO2e8mtck,0","Gordita":"YAFdJpAlwLA,0","Gotham":"YAFcfr0ZwUA,0","Gotu":"YAEZNa_UrWs,0","Goudy Bookletter 1911":"YAHO2X7CqQQ,0","Gowun Batang":"YAGXDQtk-ic,0","Gowun Dodum":"YAGXDZ921io,0","Graduate":"YACgEajwz7Y,0","Grand Hotel":"YACgEckzDrA,0","Grandstander":"YAHO2bN2hd8,0","Gravitas One":"YAHO2WtqHRw,0","Great Vibes":"YACgEX27qLg,0","Grenze":"YAFdJpFWOZM,0","Grenze Gotisch":"YAHO2fI_o94,0","Gruppo":"YACgEbcz8MU,0","Gudea":"YAHO2WlVs30,0","Gugi":"YADK3-knzio,0","Hahmlet":"YAGXDTqs4Ac,0","Hammersmith One":"YACgEWNFnT4,0","Handlee":"YAHO2U9C-xI,0","Hanken Grotesk":"YAHO2VB9G0I,0","Heebo":"YAFdJqqaebw,0","Helvetica":"YAFcf7zkXN0,0","Helvetica Now Display":"YAFcfyB4XC8,0","Henny Penny":"YAHO2dlXoyw,0","Hepta Slab":"YAD1cDjjTFA,0","Hind Guntur":"YAFdJq1FbIc,0","Hind Madurai":"YAFdJtsMgQk,0","Hind Siliguri":"YAFdJodBWQk,0","Hind Vadodara":"YAFdJrnuAas,0","HK Grotesk":"YAFdJsjyMsM,0","Homemade Apple":"YADK3zBTjLs,0","Host Grotesk":"YAHO2VztvdY,0","Hubot Sans":"YAHO2cDVt0E,0","Huninn":"YAHO2dG1YxU,0","Ibarra Real Nova":"YAD1aDS1Jq8,0","IBM Plex Mono":"YAFdJkmvhGI,0","IBM Plex Sans":"YAFdJgT0SHI,0","IBM Plex Sans Arabic":"YAGVuEYCNg0,1","IBM Plex Sans Condensed":"YAFdJrPBof8,0","IBM Plex Sans JP":"YAGWY6rvaqo,0","IBM Plex Sans KR":"YAGXDbUrwEo,0","IBM Plex Sans Thai":"YAFdJkdZC28,0","IBM Plex Sans Thai Looped":"YAFdJui2sXU,0","IBM Plex Serif":"YAFdJt16xgA,0","IM Fell English":"YAHO2QB0QVo,0","IM Fell English SC":"YACgERmrc6I,0","IM Fell French Canon":"YAHO2bMvABs,0","Imbue":"YAGjgA104ww,0","Impact":"YAFcfnjI7Vk,0","Imperial Script":"YAHO2bXM53E,0","Inclusive Sans":"YAGzRvSP2H0,0","Inconsolata":"YAHO2SpO-5g,0","Indie Flower":"YAHO2aaUih8,0","Inria Sans":"YAHO2WaGA6A,0","Inria Serif":"YAD1aHa0r9w,0","Instrument Sans":"YAHO2bKyaSQ,0","Instrument Serif":"YAHFeOnZNEk,0","Intel One Mono":"YAHO2RYNRUQ,0","Inter":"YAFdJvSyp_k,3","Inter Tight":"YAHO2Wv04Hw,0","Istok Web":"YAHO2XNFLkI,0","Italiana":"YAHO2Toik_w,0","Italianno":"YADK33wZXP4,1","ITC Bauhaus":"YAFcfpZDFTo,0","Itim":"YAE0Z3ly4AQ,0","JA Jayagiri Sans":"YAEaXF9noCA,0","Jacques Francois":"YAHO2a5g66Q,0","Jersey 10":"YAHO2QXCPBA,0","Jersey 25":"YAHO2b0HdSo,0","JetBrains Mono":"YAFdJksXcAk,0","Jolly Lodger":"YAHO2U5HCA0,0","Josefin Sans":"YAFdJjvw9Ps,0","Josefin Slab":"YACgEQmaEIc,0","Jost":"YAHO2TSelXg,0","Jua":"YADK3-gZSDU,0","Judson":"YAHO2Te3_As,0","Julius Sans One":"YACgET-7cBI,0","Jura":"YAFdJmtyccY,0","K2D":"YAFdJm3q9Nw,0","Kadwa":"YALBswebFy8,0","Kaisei Decol":"YAGWY5xJxfk,0","Kalam":"YAFdJrEg2ic,0","Kalnia":"YAHO2ZebSDE,0","Kanit":"YAHO2TvSf7E,0","Kantumruy Pro":"YAHO2SVqwqY,0","Karantina":"YAHO2TVXfmM,0","Karla":"YAHO2V2NSXM,0","Kaushan Script":"YACgEbGmrJs,0","Khand":"YAFdJm18w3g,0","Khula":"YAFdJvaOkWI,0","Kiwi Maru":"YAFdJmm1njU,0","Klee One":"YAHO2dadxts,0","Knewave":"YACgEYSBEEA,0","Kodchasan":"YAFdJmfmzeo,0","Kosugi Maru":"YAEhL82apSM,0","Kreon":"YAHO2b-Z620,0","Kristi":"YAHO2bHz8po,0","Krona One":"YAHO2byEKN4,0","Krub":"YAFdJl9ACwk,0","Kufam":"YAGVuJN9X7k,0","Kulim Park":"YAHO2VNx1jc,0","Kumbh Sans":"YAHO2UjzjpM,0","La Belle Aurore":"YAHO2QKdLHU,0","Lalezar":"YACkoB188Y0,0","Lancelot":"YADK4HPrVfg,0","Lateef":"YADSJ_Lazxc,0","Lato":"YAFdJuFCnaw,0","LazyDog":"YAEK94THsCY,1","League Gothic":"YACgEZ1OEPI,0","League Spartan":"YACgEcnJpjs,0","Leckerli One":"YAGX4ddZAAg,0","Lemonada":"YAFdtQVfQCk,0","Lexend":"YAHO2SCkHoU,0","Lexend Deca":"YAD9UdTHECk,0","Lexend Exa":"YAD9UUZHL7I,0","Lexend Giga":"YAD9UYAqrOc,0","Lexend Mega":"YAD9UdrjgZw,0","Lexend Peta":"YAD9UbAW09Y,0","Lexend Zetta":"YAD9UYrErMw,0","Liberation Sans":"YACkoCpVbHs,0","Libertinus Sans":"YAHMLfZwtOs,0","Libre Baskerville":"YACgEUFdPdA,0","Libre Bodoni":"YAHO2fbN094,0","Libre Caslon Display":"YAHO2XhLmt0,0","Libre Caslon Text":"YAHO2USylHk,0","Libre Franklin":"YAFdJr3SNlU,1","Lilita One":"YACgEblklxo,0","Limelight":"YACgEUpkTXE,0","LINE Seed JP":"YAHO2d8yXa4,0","Literata":"YAD1b0SpOHQ,0","Literaturnaya":"YAEw2PHBjL0,0","Livvic":"YAFdJiLU_Ko,0","Lobster":"YAD8SnSjSFI,0","Lobster Two":"YACgEesdoec,0","Londrina Solid":"YAFdJnyMeQE,0","Lora":"YACgEXvxf8Q,0","Love Ya Like A Sister":"YAHO2WqclmE,0","Lovelace Text":"YAEp6DuM3Gw,0","Lucida Console":"YAFcfpZCfh8,0","Luckiest Guy":"YADK4PnlFRs,0","Lusitana":"YAHO2SveFfM,0","Luxurious Script":"YAGXhP81m8s,0","LXGW WenKai TC":"YAHO2ehQ5_o,0","M PLUS 1p":"YAHO2fozO7I,0","M PLUS 2":"YAHO2RUGZcQ,0","Ma Shan Zheng":"YAD1b3yES34,0","Mada":"YAFd-HxC1Y0,0","Maitree":"YAFdJh4v5pY,0","Mali":"YAFdJh7OuNE,0","Mangal":"YAFcf3pCl6E,0","Manrope":"YAHO2b2feC4,0","Mansalva":"YAD1aZCCYU8,1","Manuale":"YAHO2XO6VM0,0","Manufacturing Consent":"YAHO2Tdy8YQ,0","Marcellus":"YADK4L2nGbg,0","Marck Script":"YALBs9DBETo,0","Marhey":"YAGVt3FsiJE,0","Martel":"YAFdtY7FRH8,1","Martel Sans":"YAFdJnFZE_o,0","Martian Mono":"YAHO2YhUMkk,0","Mate":"YAHO2eaPuMk,0","Maven Pro":"YAFdJgCyb_c,0","Mea Culpa":"YAHO2UQx4WU,0","MedievalSharp":"YAHO2XoH9qQ,0","Megrim":"YACgEQu0pLY,0","Meiryo":"YAGmJPEz0BM,0","Merienda":"YAGXhISLJkY,0","Merriweather":"YACgEXvHxxs,0","Merriweather Sans":"YAFdJorZgto,1","Metal Mania":"YAHO2RakMsk,0","Metamorphous":"YAHO2VZfQ20,0","Metropolis":"YAD02dnyUJ4,1","Michroma":"YADK4IYX8vY,0","Miriam Libre":"YADK4A2U8KA,0","Mitr":"YAFdJh-DKf0,0","Mochiy Pop One":"YAGWZBVNvyY,0","Modak":"YALBs_cEz8M,0","Mogra":"YACkoLlIQu0,0","Mohave":"YAHO2a-kB9g,0","Momo Trust Sans":"YAHO2WLKNS0,0","Mona Sans":"YAHO2XGz2BM,0","Monda":"YADK34lACd0,1","Monoton":"YALBs_hWWG8,0","Monsieur La Doulaise":"YAHO2ZDmLzM,0","Mont":"YAFdJgul-2U,0","Montserrat":"YAFdtQi73Xs,0","Montserrat Alternates":"YAHO2d5URdI,0","Monument":"YAFdJgp7PFE,0","Mooli":"YAHO2QudnvU,0","More Sugar":"YAFdJkVWBPo,1","Moul":"YADK4IOwXpw,0","Mountains of Christmas":"YAHO2f6R-YA,0","Mozilla Headline":"YAHO2ZZLh-k,0","Mr Dafoe":"YACgEbw4BXM,0","Mrs Saint Delafield":"YAHO2Tnt53k,0","Ms Madi":"YAHO2SBc4rI,0","Mukta":"YAFdJjsZaSM,0","Mukta Mahee":"YAFdtVEME6c,0","Muli":"YAFdtZAC0Mk,0","Mulish":"YAHO28rytyw,0","Muller":"YAFdJriKtFM,0","Nanum Myeongjo":"YAFdJqiu4VY,0","Neucha":"YAEkTBQffFg,0","Neue Machina":"YAFdJl3zAt0,0","Neue Montreal":"YAFdJqX996o,0","Neuton":"YAFdtcDBvdA,0","New Rocker":"YAHO2YI8rWg,0","News Cycle":"YACkoEMGWek,0","Newsreader":"YAHCYkWCns8,0","Niramit":"YAFdJhxYZW4,0","Nirmala UI":"YAFcf161eM0,0","Nixie One":"YACgEUtNgZc,0","Nosifer":"YAHO2cgIgOc,0","Nothing You Could Do":"YAHO2WqRm_c,0","Noticia Text":"YACkoDm0xlE,0","Noto Color Emoji":"YAGumpcTCok,0","Noto Kufi Arabic":"YACkoGW2dTA,0","Noto Naskh Arabic":"YACkoI8Oj1c,0","Noto Nastaliq Urdu":"YAGU_Q5u0w4,0","Noto Sans":"YACkoCjjZNk,0","Noto Sans Armenian":"YACkoI5u7HA,0","Noto Sans Balinese":"YAHO21bV1BM,0","Noto Sans Batak":"YAHO23YQ0_M,0","Noto Sans Bengali":"YAFdJjnhMdI,0","Noto Sans Canadian Aboriginal":"YAHK3L_wQZM,0","Noto Sans Display":"YAHO2eyZBeY,0","Noto Sans Egyptian Hieroglyphs":"YAHO2Tb1y28,0","Noto Sans Ethiopic":"YAHO20DfUMM,0","Noto Sans Georgian":"YACkoFKxqWs,0","Noto Sans Gujarati":"YACkoEDaawU,0","Noto Sans Gurmukhi":"YACkoNT6NTg,0","Noto Sans HK":"YAHO2fCytzw,0","Noto Sans Javanese":"YACkoNo3Bcw,0","Noto Sans JP":"YAFdJiHXlcI,0","Noto Sans Kannada":"YACkoIujelo,0","Noto Sans Khmer":"YACkoFdRIJM,0","Noto Sans KR":"YAGsojZj-RQ,0","Noto Sans Lao":"YAHO2f6jVpw,0","Noto Sans Lao Looped":"YAHO2TSQjpA,0","Noto Sans Malayalam":"YACkoMzSo98,0","Noto Sans Mono":"YAHO2TFVtN0,0","Noto Sans Myanmar":"YACkoPHEdMk,0","Noto Sans Oriya":"YAHO2TmiA1I,0","Noto Sans SC":"YAHO2hDCDFM,0","Noto Sans Sinhala":"YACkoJiU_Ak,0","Noto Sans Symbols":"YAHO2n0Zh0w,0","Noto Sans Tamil":"YAHO2r9jkew,0","Noto Sans TC":"YAHO2pzGHBE,0","Noto Sans Telugu":"YAHO2uFAQs4,0","Noto Sans Thaana":"YAHO2-c-brc,0","Noto Sans Thai Looped":"YAFdJqlG6-E,0","Noto Serif":"YACkoGNq-XY,0","Noto Serif Bengali":"YAGVuu_j8c8,0","Noto Serif Devanagari":"YAGWNWUpY9s,0","Noto Serif Display":"YAFdJllHsUM,0","Now":"YAFdJrJllfA,0","Numans":"YAHO2nkeXPA,0","Nunito":"YAFdJoNRMmU,1","Nunito Sans":"YAFdtQJYB9w,1","Odibee Sans":"YAD1aGo16Go,0","Old Standard TT":"YAHO2lhtDcg,0","Oleo Script":"YACgEQQ14jI,0","Onest":"YAHO2kaArOY,0","Open Sans":"YAFdJt8dAY0,1","Open Sans Condensed":"YAD7Rf0lmm4,1","Open Sans Hebrew":"YAFdJlARYMY,0","Optima":"YAFcf0Fltlg,0","Oranienbaum":"YALBs0MvhmA,0","Orbit":"YAFyMQm0Z54,0","Orbitron":"YAHO2tXXH_o,0","Oswald":"YACgEQY10lw,0","Outfit":"YAHO2nVlg14,0","Overpass":"YAFdJhmdIMM,1","Overpass Mono":"YAHO2kkv44I,0","Ovo":"YADK4JHqBpg,0","Oxanium":"YAHO2kINDn0,0","Oxygen":"YAHO2nOU31A,0","Pacifico":"YADLjORQ1u4,0","Padauk":"YACkoMjU4UU,0","Palanquin":"YAFdJkUV3N4,0","Palatino":"YAGLy64uiS8,4","Pangolin":"YADK4DH4-fM,0","Panton":"YAFdJg3DcRA,0","Parisienne":"YACgERSYqTw,0","Parkinsans":"YAHO2j-ZSEo,0","Passion One":"YAFdJo9cFec,0","Pathway Extreme":"YAHO2h3f3W0,0","Pathway Gothic One":"YACkoMQo7Mc,0","Patrick Hand":"YAHO2swKcgg,0","Patrick Hand SC":"YAHO2qmdhTY,0","Patua One":"YAHO2qRZWLE,0","Paytone One":"YALBs8J6By4,0","Perandory SemiCondensed":"YAFJsrsM0TY,0","Permanent Marker":"YACgEcB-r-s,0","Petit Formal Script":"YALBsw8cs24,0","Petrona":"YADK4PUbnVg,1","Philosopher":"YAEkTCvkg7Q,0","Phudu":"YAHO2vkIQEo,0","Ping":"YAEYXSRnkF0,0","Pinyon Script":"YACgEQzTJgs,0","Pirata One":"YALBs3j2Xx0,0","Pixelify Sans":"YAHO2v5ARTA,0","Play":"YADK4EFto8o,0","Playball":"YAHO2hWLQJ0,0","Playfair Display":"YAFdJhem5V8,1","Playfair Display SC":"YACgESE7eJQ,0","Playpen Sans":"YAGLNo9uX4s,1","Playwrite BR":"YAGNffc3m80,0","Playwrite ES":"YAHO202sEvg,0","Playwrite ID":"YAHO27jDFoE,0","Playwrite NZ Basic":"YAHO26KONyE,0","Playwrite VN":"YAHO2_bSM7Y,0","Plus Jakarta Sans":"YAHO2gdhi18,0","Poiret One":"YAHO2nweLas,0","Pontano Sans":"YAHO2t91rWw,0","Poppins":"YAFdJjbTu24,1","Potta One":"YAFShf6np94,0","Pragmatica":"YAEw1pyVaO0,0","Prata":"YACgES4qGnk,0","Press Start 2P":"YAFyGr-8pmQ,0","Pridi":"YAFdJmJ3gqA,0","Prompt":"YAFdJmA6sOY,0","Protest Riot":"YAGXhAFSAis,0","Proxima Nova":"YAFcfjveRFU,0","Proxima Nova Condensed":"YAFcfiSm_SA,0","Proza Libre":"YAHO2nv0NKc,0","PT Mono":"YAHO2lnK_7w,0","PT Sans":"YACgEYbsV-E,0","PT Sans Caption":"YAHO2oZpTQc,0","PT Sans Narrow":"YAHO2glZymI,0","PT Serif":"YACgEcU7Qg4,0","Public Sans":"YAFdJj8NdaU,1","Pyidaungsu":"YACkoGGC7sA,0","Quantico":"YAHO2me4bVc,0","Quattrocento":"YACgEcL5b3s,0","Quattrocento Sans":"YAHO2vuaC0Y,0","Questrial":"YADK4LSvvyE,1","Quicksand":"YAFdJpYtCxE,1","Racing Sans One":"YACgEbcqMPM,0","Radio Canada":"YAHO2qxyljs,0","Radio Canada Big":"YAHO2r7P8wg,0","Radley":"YADK4O60vp0,0","Rajdhani":"YAFdJoWaWgo,0","Rakkas":"YALBs9kmKNE,0","Raleway":"YAFdJhmxbVQ,1","Ramabhadra":"YACkoN_hhSs,0","Rammetto One":"YAHO2nAqWuQ,0","Rasa":"YAFdJg-9rGY,0","Readex Pro":"YAGVt3RBO3c,0","Recoleta":"YAFcf2ThYuU,2","Recursive":"YAHO2oZn01g,0","Red Hat Display":"YAD1bzs0p0Y,0","Red Hat Mono":"YAHO2gB0kV8,0","Red Hat Text":"YAHO21kkNWg,0","Reddit Sans":"YAHO2kKAR-8,0","Reem Kufi":"YADSJ0ceOYQ,0","Reenie Beanie":"YAHO2s4qTnk,0","Reggae One":"YAFyL1F3Y-4,0","Rethink Sans":"YAHO2q9_FzY,0","Righteous":"YAHO2oo4-So,0","Road Rage":"YAHO2o82hA4,0","Roboto":"YACgEev4gKc,0","Roboto Condensed":"YACgEan-tYE,0","Roboto Flex":"YAHO2nqK4E8,0","Roboto Mono":"YAFdJkvp3-k,0","Roboto Slab":"YAFdJswIKAg,0","Rochester":"YAHO2kOZ9jU,0","Rock Salt":"YAHO2vFSVxE,0","Rockwell":"YAFcfyVZnN0,0","Rockwell Condensed":"YAFcf0bsook,0","Rokkitt":"YAFdJnlBl3o,0","Ropa Sans":"YACkoCA_LhY,0","Rowdies":"YAFyL2wl4FI,0","Rozha One":"YACkoMIfZVA,0","Rubik":"YAFdJsMWVVc,0","Rubik Dirt":"YAFyHRD_ZDY,0","Rubik Glitch":"YAFyL0Ap4GM,0","Rubik Mono One":"YAHO2qtMuC0,0","Rubik Wet Paint":"YAHO2mLD_X0,0","Ruda":"YAFdJuuBNyM,1","Rufina":"YADK4FKO8Lg,0","Ruwudu":"YAGVt1otBOY,0","Rye":"YACgEdQP21k,0","Sacramento":"YACgEf5ivwU,0","Saira":"YAFdJk33d3s,0","Saira Condensed":"YAFdJuBuAxg,0","Saira Extra Condensed":"YAFdJiQUvWc,0","Saira Semi Condensed":"YAHO2gfd5g8,0","Saira Stencil One":"YAD1aV1l2HE,0","Sanchez":"YACgEbBJLy8,0","Sancreek":"YALBsyHedNY,0","Sansation":"YAFdJglRFbg,0","Sarabun":"YAFdJssSnME,0","Sarala":"YADK4LF5xeY,0","Satisfy":"YACgEf5XTk0,0","Sawarabi Mincho":"YAD1faq7yjk,0","Scheherazade New":"YAHO2sxcjiY,0","Schibsted Grotesk":"YAHO2sWydRk,0","Schoolbell":"YACgEZHPKsk,0","Segoe Script":"YAF3uTF1s5I,0","Segoe UI":"YAHNdRD1Klw,0","Sen":"YAHO2h5vrRE,0","Shadows Into Light":"YAHO2tztN1k,0","Shadows Into Light Two":"YACgEVD67CI,0","Shantell Sans":"YAFyGytbxDc,0","Share Tech":"YAHO2q4NPs0,0","Share Tech Mono":"YAHO2oHio98,0","Shippori Mincho":"YAGWZNRJkO8,0","Shippori Mincho B1":"YAGWZJnXF8c,0","Short Stack":"YAHO2lg7AII,0","Shrikhand":"YACkoEA0Kc0,0","Signika":"YACgEfiK7GI,0","Signika Negative":"YAHO2rWYEng,0","Silkscreen":"YAHO2rdlQ_o,0","Simonetta":"YADK4LfzWNc,0","Single Day":"YAGXDZBCspk,0","Sintony":"YAHO2kIBPTg,0","Sirivennela":"YAHO2ougDr8,0","Skranji":"YAHO2uPivlQ,0","Slabo 13px":"YAHO2hvaP1I,0","Slabo 27px":"YAHO2n--yeE,0","Slackey":"YAHO2iIaL7o,0","Smooch Sans":"YAHO2tPdb20,0","Snell Roundhand":"YAFcf-RMpoo,0","Sniglet":"YACgEUJSCy8,0","Sofia":"YAHO2kq3qHg,0","Sofia Sans":"YAHMLUINeco,0","Sofia Sans Condensed":"YAHMLQmSo-Y,0","Sofia Sans Extra Condensed":"YAHMLV0fp0c,0","Solway":"YAD1fewp_mA,3","Song Myung":"YADK4PZtE24,0","Sora":"YAHO2rDTR1E,0","Sorts Mill Goudy":"YADK4Fi0R2c,0","Source Code Pro":"YAHO2tzIJbg,0","Source Han Serif JP":"YAFdJgMJ6Bo,0","Source Sans 3":"YAG4lO1Mj10,0","Source Sans Pro":"YACgEQzTv38,0","Source Serif Pro":"YACgEfdj394,0","Space Grotesk":"YAHO2sjPCSM,0","Space Mono":"YADW1-vpsoc,0","Special Elite":"YACgEYVlm9Q,0","Special Gothic Expanded One":"YAHO2oaS0m0,0","Spectral":"YAHO2rVUHIM,0","Spectral SC":"YAHO2gamQtc,0","Spline Sans":"YAHO2rZC9CE,0","Squada One":"YADK4PDlAAM,0","Sriracha":"YALBs4sJbXs,0","Staatliches":"YAD1bzJCL-s,0","Stack Sans Headline":"YAHO2n0Qv4w,0","Stardos Stencil":"YADK4Mu_Xj0,1","STIX Two Text":"YAHO2joycuk,0","Style Script":"YAGLy2PgdK0,0","Sue Ellen Francisco":"YADK4OIbCxo,0","Suez One":"YACkoJMi7_c,0","Sunflower":"YAFdJtJhp3I,1","Suranna":"YADK4MB5J7A,0","SUSE":"YAHO2pLixnA,0","Syncopate":"YAHO2iXpgDY,0","Syne":"YAHML9oLRPc,0","Tahoma":"YAFcfipOFgg,0","Tajawal":"YAFdJg45t1g,0","TAN Meringue":"YAEwfQVqdIo,0","TAN Nimbus":"YAEwfdrEBqg,0","Tangerine":"YADK4L8oUVI,0","TASA Orbiter":"YAHO2umh_2o,0","Taviraj":"YAFdJjquxqU,0","Teko":"YAFdJsF6lbU,0","Tektur":"YAHMLdkk1tM,0","Telegraf":"YAFdJvl8raw,1","Tenor Sans":"YACgEVY5j_w,0","TH Sarabun New":"YACkoFu1RUU,0","The Seasons":"YAFdJnPX3ZE,0","The Youngest":"YAEtfuYOYZQ,1","thongterm":"YAHQupn3T8Q,0","TikTok Sans":"YAHO2of1C4s,0","Tilt Neon":"YAHO2vo8k8w,0","Tilt Warp":"YAHO2uqld84,0","Times":"YAGzXW3gftg,0","Times New Roman":"YAGzXW3gftg,0","Tinos":"YACkoJyNZF4,0","Tiro Bangla":"YAGVuiG7jnE,0","Tiro Devanagari Hindi":"YAGWNCjUq0o,0","Tiro Devanagari Marathi":"YAGWNO-IVTE,0","Tiro Devanagari Sanskrit":"YAGWNHzN1is,0","Tiro Telugu":"YAHO2nlia1k,0","Titan One":"YAHO2v8eA3A,0","Titillium Web":"YAFdtTOE9xo,0","Tomorrow":"YAFdJlW65k4,0","Traditional Arabic":"YAGLszSchGc,0","Trebuchet MS":"YAFcfrglpVA,0","Trirong":"YAFdJkEiIOI,0","Trocchi":"YACgEV-yq04,0","TT Backwards Script":"YAEnTERS7-o,0","TT Commons Pro":"YAEnTI0o408,0","TT Norms":"YAFdJoYMYSc,0","Turret Road":"YAHO2pKQLYQ,0","Ubuntu":"YACgERDU--Q,0","Ubuntu Condensed":"YAHO2nCaahY,0","Ubuntu Mono":"YAHO2g6B-Uo,0","Ubuntu Sans":"YAHO2kypvWc,0","Ultra":"YACgEWHSPx0,0","Unbounded":"YAHO2rkdmWY,0","Uncial Antiqua":"YAHO2gmfDAs,0","Unica One":"YALBs74Pdjc,0","UnifrakturCook":"YAHO2srzKxY,0","UnifrakturMaguntia":"YACgEZRHDPA,0","Unna":"YADK4PtOh7E,0","Urbanist":"YAHO2o1IFy0,0","Varela":"YAHO2gPi4IU,0","Varela Round":"YALBs2IK6rw,0","Vazir":"YAFdJkYF8Mg,0","Vazirmatn":"YAHO2z1lH5c,0","Verdana":"YAGzXTctYtQ,0","Verdana Pro":"YAFcf0Q1_fs,0","Vidaloka":"YACgEdRnAX0,0","Viga":"YAHO2v8Lzbg,0","Vivaldi":"YAFcf2k4GUc,0","Volkhov":"YAHO2uWq-qg,0","Vollkorn":"YAFdJli9wSA,0","VT323":"YACgEYI9BCI,0","Walter Turncoat":"YADK4Mm5Elo,0","WindSong":"YAGXhGUyKSQ,0","Wix Madefor Display":"YAHO2o-Qfis,0","Wix Madefor Text":"YAHO2rU16Qc,0","Work Sans":"YAGXhLOKv44,0","Xanh Mono":"YAHO2pYt2v0,0","Yaldevi":"YAHO2l1R4xo,0","Yanone Kaffeesatz":"YAFdtbpuM0E,0","Yantramanav":"YAFdJuZAcfY,0","Yatra One":"YACkoJ228Ho,0","Yellowtail":"YACgEYG4kG4,0","Yeon Sung":"YADK37OOtIA,0","Yeseva One":"YALBs4GWnJw,0","Yesteryear":"YALBs99Qer0,0","Ysabeau":"YAHMLjcdG48,0","Ysabeau Office":"YAHO2uUYDYI,0","Yuji Boku":"YAFGHcN5e_Y,0","Yuji Mai":"YAFGHYm9K5k,0","Yuji Syuku":"YAFFjuwaUks,0","Yusei Magic":"YAEhL8RNAMk,0","Zain":"YAHO2lC1Xkw,0","Zalando Sans":"YAHO2k5OK-M,0","Zalando Sans Expanded":"YAHO2h6OPds,0","ZCOOL KuaiLe":"YAD1b3Joj4Y,0","ZCOOL XiaoWei":"YAD1b1xytFY,0","Zen Antique Soft":"YAHO2k9Rm_4,0","Zen Kaku Gothic Antique":"YAHO2u8F_xk,0","Zen Kaku Gothic New":"YAHO2tS_yps,0","Zen Kurenaido":"YAFKDpCxcZ8,0","Zen Maru Gothic":"YAFdJgMrcdw,0","Zen Old Mincho":"YAHO2tMwaEs,0","Zeyada":"YAHO2lP62P0,0","Zilla Slab":"YAFdJpPotmI,0","궁서체":"YAGNIIhCWnU,2"},"D":"index.html"}');</script><script src="/_sdk/fb778981f16dec71.telemetry_sdk.js" integrity="sha512-YPj+EcADuXcF0oYlFMDm6o5N2/DmqwnXQdv0MYfx5OEDq2lJpxmNfg8DYyAJdd0fAa4Ftc+9X6h94QroJ5kJIA=="></script>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MZ Fitness — Seis telas</title>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&amp;family=Work+Sans:wght@600;700;800;900&amp;display=swap" rel="stylesheet">
-  <style>
-    :root { --yellow: #f6d529; --ink: #101110; --muted: #a9a99f; }
-    * { box-sizing: border-box; }
-    body { margin: 0; font-family: 'DM Sans', sans-serif; color: #fff; }
-    button { cursor: pointer; }
-    button:focus-visible { outline: 3px solid #fff; outline-offset: 4px; }
-    .app-shell { width: 100%; min-height: calc(100 * min(var(--vh, 1vh), 1vh)); background: radial-gradient(circle at 50% 48%, #303027 0%, #171816 48%, #101110 100%); }
-    .display-title { font-family: 'Work Sans', sans-serif; font-weight: 900; letter-spacing: -.065em; line-height: .98; }
-    .phone { width: min(100%, 354px); height: 610px; border: 8px solid #353630; border-radius: 39px; background: #111210; overflow: hidden; position: relative; box-shadow: 0 36px 85px #0009, 0 0 0 2px #080909; }
-    .phone::before { content: ''; position: absolute; top: 9px; left: 50%; transform: translateX(-50%); width: 82px; height: 17px; border-radius: 20px; background: #080908; z-index: 10; }
-    .screen { position: absolute; inset: 0; overflow: hidden; display: none; animation: appear .32s ease both; }
-    .screen.active { display: block; }
-    @keyframes appear { from { opacity: .35; transform: translateX(12px); } to { opacity: 1; transform: translateX(0); } }
-    .screen-image { width: 100%; height: 100%; object-fit: cover; }
-    .photo-shade { position: absolute; inset: 0; background: linear-gradient(180deg, #05060555 0%, #08090709 33%, #080907ee 100%); pointer-events: none; }
-    .yellow { color: var(--yellow); }
-    .yellow-bg { background: var(--yellow); color: #111210; }
-    .phone-content { position: absolute; z-index: 2; inset-inline: 24px; }
-    .tiny-label { font-size: 11px; font-weight: 800; letter-spacing: .18em; text-transform: uppercase; }
-    .screen-copy { font-size: 14px; line-height: 1.5; color: #e2e2d9; }
-    .metric { border: 1px solid #ffffff24; background: #ffffff0c; border-radius: 17px; }
-    .indicator { width: 26px; height: 6px; border-radius: 20px; background: #686961; transition: width .2s, background .2s; }
-    .indicator[aria-current="step"] { width: 43px; background: var(--yellow); }
-    .nav-btn { border: 1px solid #ffffff37; border-radius: 999px; padding: 11px 19px; font-weight: 700; transition: background .2s, transform .2s; }
-    .nav-btn:hover:not(:disabled) { transform: translateY(-2px); background: #ffffff19; }
-    .nav-btn:disabled { opacity: .35; cursor: not-allowed; }
-    .nav-next { background: var(--yellow); border-color: var(--yellow); color: #111210; }
-    .nav-next:hover:not(:disabled) { background: #ffe45e; }
-    @media (max-width: 480px) {
-      .phone { height: min(610px, calc(78 * min(var(--vh, 1vh), 1vh))); min-height: 500px; }
-      .phone-content { inset-inline: 21px; }
-    }
-    @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; } }
-  </style>
-  <script src="https://cdn.tailwindcss.com/3.4.17" type="text/javascript"></script>
-  <script src="https://cdn.jsdelivr.net/npm/lucide@0.577.0/dist/umd/lucide.min.js" type="text/javascript"></script>
-  <script src="/_sdk/bddf767fb065c21b.data_sdk.js" type="text/javascript" integrity="sha512-2vpLbebzZqyNGDHj4S/hNQer3IOu5izs2myxynH8/NvYQHh8EnUZgHGROXCT/+fDAmTcNSX4klehRoicmAFsqg=="></script>
-  <script src="/_sdk/476410e34eaa0915.editing_sdk.js" type="text/javascript" integrity="sha512-mOFJq2Lc9JUe76DPzDphmOAL/7wppZ1b/KMo7C3dt4jdisXcQsUw7UG6IoL/WebQQvrgYKa9JAaLKQQtJ5R8SQ=="></script>
-  <script src="/_sdk/d71f39f99b327c9e.resizing_sdk.js" type="text/javascript" integrity="sha512-QUhSaDv5LVWBqCeVvNygPNOyWwX1vNVotv+iARsyZ+DyyR/968VN971iTOX9sVg6Ny+LvUzmd9SibhFV+xeITQ=="></script>
- </head>
- <body data-template-id="__page-root" class="app-shell" style="background: radial-gradient(rgb(48, 48, 39), rgb(23, 24, 22), rgb(16, 17, 16));">
-  <div class="w-full min-h-full px-4 py-6 md:px-8 md:py-8 flex flex-col items-center">
-   <header class="w-full max-w-5xl flex items-center justify-between gap-4 mb-6">
-    <div class="flex items-center gap-3">
-     <div class="yellow-bg w-10 h-10 rounded-xl flex items-center justify-center font-black tracking-tighter" aria-hidden="true">MZ</div>
-     <span data-template-id="header-brand" class="canva-text font-extrabold tracking-tight" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 16px;">MZ Fitness</span>
-    </div>
-    <span data-template-id="header-tag" class="canva-tag rounded-full border border-white/20 px-3 py-1 text-xs tracking-widest uppercase text-white/70" style="color: rgb(182, 182, 175); font-weight: 400; font-style: normal; font-size: 16px;">Apresentação do app</span>
-   </header>
-   <main class="w-full flex-1 flex flex-col items-center justify-center">
-    <div class="phone" aria-label="Prévia das telas do aplicativo MZ Fitness">
-     <section class="screen active" id="screen-1" aria-label="Tela 1 de 6">
-      <img data-template-id="screen-1-image" class="canva-image screen-image" loading="lazy" src="https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=800" alt="Pessoa treinando em uma academia">
-      <div class="photo-shade"></div>
-      <div class="phone-content top-12">
-       <span data-template-id="screen-1-top" class="canva-text tiny-label yellow" style="color: rgb(246, 213, 41); font-weight: 400; font-style: normal; font-size: 16px;">MOVIMENTO É VIDA</span>
-      </div>
-      <div class="phone-content bottom-10">
-       <div data-template-id="screen-1-mark" class="canva-text display-title yellow" style="font-size: 92px; color: rgb(246, 213, 41); font-weight: 900; font-style: normal;">MZ.</div>
-       <h1 data-template-id="screen-1-title" class="canva-text display-title mt-3" style="font-size: 39px; white-space: pre-line; color: rgb(255, 255, 255); font-weight: 900; font-style: normal;">Seu ritmo.
-Seu próximo nível.</h1>
-       <p data-template-id="screen-1-copy" class="canva-text screen-copy mt-4" style="color: rgb(226, 226, 217); font-weight: 400; font-style: normal; font-size: 16px;">Uma nova forma de viver o treino. Comece agora.</p>
-       <div class="mt-7 h-1 rounded-full yellow-bg"></div>
-      </div>
-     </section>
-     <section class="screen" id="screen-2" aria-label="Tela 2 de 6" hidden="">
-      <div class="absolute inset-0" style="background:radial-gradient(circle at 85% 32%,#343421,#111210 62%)"></div>
-      <div class="phone-content top-12">
-       <span data-template-id="screen-2-top" class="canva-text tiny-label yellow" style="color: rgb(246, 213, 41); font-weight: 400; font-style: normal; font-size: 16px;">MZ FITNESS / INÍCIO</span>
-       <h2 data-template-id="screen-2-title" class="canva-text display-title mt-12" style="font-size: 43px; white-space: pre-line; color: rgb(255, 255, 255); font-weight: 900; font-style: normal;">Hoje é dia de ir além.</h2>
-       <p data-template-id="screen-2-copy" class="canva-text screen-copy mt-4" style="color: rgb(226, 226, 217); font-weight: 400; font-style: normal; font-size: 16px;">Cada passo conta. O seu próximo treino começa aqui.</p>
-       <div data-template-id="screen-2-feature" class="canva-card mt-10 rounded-3xl p-6 yellow-bg" style="background: rgb(246, 213, 41);">
-        <span data-template-id="screen-2-feature-label" class="canva-text tiny-label" style="color: rgb(17, 18, 16); font-weight: 400; font-style: normal; font-size: 16px;">SEU FOCO DE HOJE</span>
-        <p data-template-id="screen-2-feature-title" class="canva-text display-title mt-6" style="font-size: 31px; white-space: pre-line; color: rgb(17, 18, 16); font-weight: 900; font-style: normal;">Mais forte a cada dia.</p>
-        <span class="block mt-8 text-4xl" aria-hidden="true">↗</span>
-       </div>
-       <div class="grid grid-cols-2 gap-3 mt-4">
-        <div class="metric p-4">
-         <span data-template-id="screen-2-metric-1" class="canva-text text-sm font-bold" style="color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">01 / Movimente-se</span>
-        </div>
-        <div class="metric p-4">
-         <span data-template-id="screen-2-metric-2" class="canva-text text-sm font-bold" style="color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">02 / Evolua</span>
-        </div>
-       </div>
-      </div>
-      <div class="phone-content bottom-8">
-       <span data-template-id="screen-2-footer" class="canva-text tiny-label text-white/50" style="color: rgb(153, 154, 148); font-weight: 400; font-style: normal; font-size: 16px;">A SUA JORNADA COMEÇA AGORA</span>
-      </div>
-     </section>
-     <section class="screen" id="screen-3" aria-label="Tela 3 de 6" hidden="">
-      <img data-template-id="screen-3-image" class="canva-image screen-image" loading="lazy" src="https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=800" alt="Pessoa se exercitando com pesos na academia">
-      <div class="photo-shade"></div>
-      <div class="phone-content top-12">
-       <span data-template-id="screen-3-top" class="canva-text tiny-label yellow" style="color: rgb(246, 213, 41); font-weight: 400; font-style: normal; font-size: 16px;">MZ FITNESS / TREINOS</span>
-      </div>
-      <div class="phone-content bottom-10">
-       <span data-template-id="screen-3-kicker" class="canva-text tiny-label yellow" style="color: rgb(246, 213, 41); font-weight: 400; font-style: normal; font-size: 16px;">FORÇA • FOCO • MOVIMENTO</span>
-       <h2 data-template-id="screen-3-title" class="canva-text display-title mt-4" style="font-size: 46px; white-space: pre-line; color: rgb(255, 255, 255); font-weight: 900; font-style: normal;">O treino é seu.</h2>
-       <p data-template-id="screen-3-copy" class="canva-text screen-copy mt-4" style="color: rgb(226, 226, 217); font-weight: 400; font-style: normal; font-size: 16px;">Encontre seu ritmo e construa a sua melhor versão.</p>
-       <div class="flex gap-2 mt-7">
-        <span class="yellow-bg rounded-full px-4 py-2 text-xs font-bold">FORÇA</span><span class="border border-white/40 rounded-full px-4 py-2 text-xs font-bold">ENERGIA</span>
-       </div>
-      </div>
-     </section>
-     <section class="screen" id="screen-4" aria-label="Tela 4 de 6" hidden="">
-      <div class="absolute inset-0" style="background:radial-gradient(circle at 10% 75%,#35361b,#111210 63%)"></div>
-      <div class="phone-content top-12">
-       <span data-template-id="screen-4-top" class="canva-text tiny-label yellow" style="color: rgb(246, 213, 41); font-weight: 400; font-style: normal; font-size: 16px;">MZ FITNESS / EVOLUÇÃO</span>
-       <h2 data-template-id="screen-4-title" class="canva-text display-title mt-11" style="font-size: 42px; white-space: pre-line; color: rgb(255, 255, 255); font-weight: 900; font-style: normal;">O progresso é a jornada.</h2>
-       <p data-template-id="screen-4-copy" class="canva-text screen-copy mt-4" style="color: rgb(226, 226, 217); font-weight: 400; font-style: normal; font-size: 16px;">Não é sobre chegar primeiro. É sobre continuar.</p>
-       <div class="mt-9 rounded-3xl p-6 border border-white/20 bg-white/5">
-        <span data-template-id="screen-4-card-label" class="canva-text tiny-label yellow" style="color: rgb(246, 213, 41); font-weight: 400; font-style: normal; font-size: 16px;">CONTINUE EM MOVIMENTO</span>
-        <div class="flex items-end gap-2 h-36 mt-6" aria-hidden="true">
-         <span class="flex-1 rounded-t-lg bg-white/20 h-[36%]"></span><span class="flex-1 rounded-t-lg bg-white/30 h-[53%]"></span><span class="flex-1 rounded-t-lg bg-white/40 h-[43%]"></span><span class="flex-1 rounded-t-lg bg-yellow-400 h-[76%]"></span><span class="flex-1 rounded-t-lg bg-yellow-400 h-[59%]"></span><span class="flex-1 rounded-t-lg bg-yellow-400 h-[91%]"></span>
-        </div>
-        <p data-template-id="screen-4-card-copy" class="canva-text font-bold mt-5" style="color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 16px;">Um dia de cada vez. Sempre em frente.</p>
-       </div>
-      </div>
-      <div class="phone-content bottom-8">
-       <span data-template-id="screen-4-footer" class="canva-text tiny-label text-white/50" style="color: rgb(153, 154, 148); font-weight: 400; font-style: normal; font-size: 16px;">SUA EVOLUÇÃO, NO SEU TEMPO</span>
-      </div>
-     </section>
-     <section class="screen" id="screen-5" aria-label="Tela 5 de 6" hidden="">
-      <img data-template-id="screen-5-image" class="canva-image screen-image" loading="lazy" src="https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=800" alt="Pessoa realizando exercício físico">
-      <div class="photo-shade"></div>
-      <div class="phone-content top-12">
-       <span data-template-id="screen-5-top" class="canva-text tiny-label yellow" style="color: rgb(246, 213, 41); font-weight: 400; font-style: normal; font-size: 16px;">MZ FITNESS / EXERCÍCIOS</span>
-      </div>
-      <div class="phone-content bottom-10">
-       <div class="w-12 h-1 yellow-bg rounded-full mb-6"></div>
-       <h2 data-template-id="screen-5-title" class="canva-text display-title" style="font-size: 43px; white-space: pre-line; color: rgb(255, 255, 255); font-weight: 900; font-style: normal;">Exercícios na palma da mão.</h2>
-       <p data-template-id="screen-5-copy" class="canva-text screen-copy mt-5" style="color: rgb(226, 226, 217); font-weight: 400; font-style: normal; font-size: 16px;">Inspiração para se movimentar onde quer que você esteja.</p>
-       <span data-template-id="screen-5-signature" class="canva-text tiny-label yellow block mt-8" style="color: rgb(246, 213, 41); font-weight: 400; font-style: normal; font-size: 16px;">MZ FITNESS · SEM DESCULPAS</span>
-      </div>
-     </section>
-     <section class="screen" id="screen-6" aria-label="Tela 6 de 6" hidden="">
-      <img data-template-id="screen-6-image" class="canva-image screen-image" loading="lazy" src="https://images.pexels.com/photos/2803158/pexels-photo-2803158.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=800" alt="Atleta treinando em uma academia">
-      <div class="photo-shade"></div>
-      <div class="phone-content top-12">
-       <span data-template-id="screen-6-top" class="canva-text tiny-label yellow" style="color: rgb(246, 213, 41); font-weight: 400; font-style: normal; font-size: 16px;">MZ FITNESS / PRÓXIMO NÍVEL</span>
-      </div>
-      <div class="phone-content bottom-10">
-       <span data-template-id="screen-6-reference" class="canva-text display-title yellow" style="font-size: 67px; color: rgb(246, 213, 41); font-weight: 900; font-style: normal;">mzt.</span>
-       <h2 data-template-id="screen-6-title" class="canva-text display-title mt-4" style="font-size: 46px; white-space: pre-line; color: rgb(255, 255, 255); font-weight: 900; font-style: normal;">Treino inteligente.</h2>
-       <p data-template-id="screen-6-copy" class="canva-text screen-copy mt-5" style="color: rgb(226, 226, 217); font-weight: 400; font-style: normal; font-size: 16px;">Mais intenção em cada movimento. Seu futuro começa agora.</p>
-       <div class="mt-8 h-1 rounded-full yellow-bg"></div>
-      </div>
-     </section>
-    </div>
-    <nav class="w-full max-w-[430px] mt-7 flex flex-col items-center gap-5" aria-label="Navegação entre as seis telas">
-     <div class="flex gap-2 items-center" role="group" aria-label="Escolher tela">
-      <button class="indicator" type="button" data-page="0" aria-label="Ir para a tela 1" aria-current="step"></button> <button class="indicator" type="button" data-page="1" aria-label="Ir para a tela 2"></button> <button class="indicator" type="button" data-page="2" aria-label="Ir para a tela 3"></button> <button class="indicator" type="button" data-page="3" aria-label="Ir para a tela 4"></button> <button class="indicator" type="button" data-page="4" aria-label="Ir para a tela 5"></button> <button class="indicator" type="button" data-page="5" aria-label="Ir para a tela 6"></button>
-     </div>
-     <div class="w-full flex items-center justify-between gap-3">
-      <button id="previous" type="button" class="nav-btn canva-button" data-template-id="previous-button" disabled="" style="color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 16px;">← Voltar</button> <span id="page-count" class="text-sm font-bold tracking-widest text-white/70" aria-live="polite">01 / 06</span> <button id="next" type="button" class="nav-btn nav-next canva-button" data-template-id="next-button" style="background: rgb(246, 213, 41); color: rgb(17, 18, 16); font-weight: 700; font-style: normal; font-size: 16px;">Avançar →</button>
-     </div>
-    </nav>
-   </main>
-   <footer class="w-full max-w-5xl mt-7 text-center md:text-right">
-    <span data-template-id="footer-note" class="canva-text text-xs text-white/45" style="color: rgb(129, 130, 124); font-weight: 400; font-style: normal; font-size: 16px;">MZ Fitness · Explore as seis telas</span>
-   </footer>
-  </div>
-  <script>
-    const screens = [...document.querySelectorAll('.screen')];
-    const indicators = [...document.querySelectorAll('.indicator')];
-    const previous = document.getElementById('previous');
-    const next = document.getElementById('next');
-    const count = document.getElementById('page-count');
-    let current = 0;
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#10100d">
+<title>MZ FITNESS | Treino Inteligente</title>
 
-    function showPage(index) {
-      if (index < 0 || index >= screens.length || index === current) return;
-      screens[current].classList.remove('active');
-      screens[current].hidden = true;
-      indicators[current].removeAttribute('aria-current');
-      current = index;
-      screens[current].hidden = false;
-      screens[current].classList.add('active');
-      indicators[current].setAttribute('aria-current', 'step');
-      previous.disabled = current === 0;
-      next.disabled = current === screens.length - 1;
-      count.textContent = String(current + 1).padStart(2, '0') + ' / 06';
-    }
-    previous.addEventListener('click', () => showPage(current - 1));
-    next.addEventListener('click', () => showPage(current + 1));
-    indicators.forEach(button => button.addEventListener('click', () => showPage(Number(button.dataset.page))));
-    document.addEventListener('keydown', event => {
-      if (event.target.closest('button, input, textarea, select')) return;
-      if (event.key === 'ArrowRight') showPage(current + 1);
-      if (event.key === 'ArrowLeft') showPage(current - 1);
-    });
-  </script>
- 
-</body></html>
+<style>
+:root {
+ --preto:#0b0c0b;
+ --card:#171914;
+ --card2:#22241c;
+ --amarelo:#f4d21e;
+ --branco:#f7f7f2;
+ --cinza:#a5a79a;
+ --borda:#34362d;
+}
+
+*{box-sizing:border-box}
+
+body{
+ margin:0;
+ background:var(--preto);
+ color:var(--branco);
+ font-family:Arial,Helvetica,sans-serif;
+}
+
+button,input,select{font:inherit}
+
+button{cursor:pointer}
+
+.app{
+ max-width:1100px;
+ margin:auto;
+ padding-bottom:85px;
+}
+
+header{
+ height:72px;
+ padding:15px 22px;
+ display:flex;
+ justify-content:space-between;
+ align-items:center;
+ border-bottom:1px solid var(--borda);
+ background:#10110f;
+ position:sticky;
+ top:0;
+ z-index:10;
+}
+
+.logo{
+ font-size:27px;
+ font-weight:1000;
+ letter-spacing:-1px;
+}
+
+.logo span{color:var(--amarelo)}
+
+.logo small{
+ display:block;
+ font-size:9px;
+ letter-spacing:3px;
+ color:var(--cinza);
+}
+
+.avatar{
+ width:40px;
+ height:40px;
+ background:var(--amarelo);
+ color:#111;
+ border-radius:50%;
+ display:grid;
+ place-items:center;
+ font-weight:bold;
+}
+
+main{padding:22px 18px}
+
+.hero{
+ min-height:280px;
+ border-radius:20px;
+ padding:28px;
+ background:
+ linear-gradient(90deg,#090a09 5%,#090a09d9 55%,#090a0940),
+ linear-gradient(135deg,#393a29,#171914);
+ border:1px solid #48452a;
+ display:flex;
+ flex-direction:column;
+ justify-content:center;
+}
+
+.etiqueta{
+ color:var(--amarelo);
+ font-size:11px;
+ letter-spacing:3px;
+ font-weight:bold;
+}
+
+.hero h1{
+ font-size:clamp(32px,7vw,52px);
+ line-height:1;
+ margin:15px 0;
+ max-width:500px;
+}
+
+.hero p{
+ color:#c4c5bb;
+ max-width:450px;
+ line-height:1.6;
+}
+
+.btn{
+ background:var(--amarelo);
+ color:#111;
+ border:0;
+ border-radius:30px;
+ padding:13px 20px;
+ font-weight:900;
+}
+
+.btn-sec{
+ background:transparent;
+ color:white;
+ border:1px solid var(--borda);
+ border-radius:25px;
+ padding:10px 15px;
+}
+
+.cards{
+ display:grid;
+ grid-template-columns:repeat(2,1fr);
+ gap:13px;
+ margin:18px 0;
+}
+
+.card{
+ background:var(--card);
+ border:1px solid var(--borda);
+ border-radius:17px;
+ padding:17px;
+ margin-bottom:12px;
+}
+
+.numero{
+ font-size:29px;
+ font-weight:900;
+ margin:9px 0;
+}
+
+.muted{
+ color:var(--cinza);
+ font-size:13px;
+ line-height:1.5;
+}
+
+.titulo{
+ font-size:23px;
+ margin:10px 0 18px;
+}
+
+.secao{
+ display:flex;
+ justify-content:space-between;
+ align-items:center;
+ margin:25px 0 13px;
+}
+
+.secao h2{font-size:19px;margin:0}
+
+.menu-cards{
+ display:grid;
+ grid-template-columns:repeat(2,1fr);
+ gap:12px;
+}
+
+.menu-card{
+ background:var(--card);
+ border:1px solid var(--borda);
+ border-radius:16px;
+ padding:18px;
+ color:white;
+ text-align:left;
+ min-height:110px;
+}
+
+.menu-card .icone{font-size:25px}
+.menu-card strong{display:block;margin:10px 0}
+.menu-card small{color:var(--cinza)}
+
+nav{
+ position:fixed;
+ bottom:0;
+ left:0;
+ right:0;
+ background:#11120ff5;
+ border-top:1px solid var(--borda);
+ display:flex;
+ justify-content:center;
+ z-index:20;
+}
+
+.nav-in{
+ width:min(100%,700px);
+ display:flex;
+ justify-content:space-around;
+ padding:10px 3px;
+}
+
+nav button{
+ border:0;
+ background:none;
+ color:#999b90;
+ font-size:10px;
+ display:grid;
+ gap:5px;
+ justify-items:center;
+}
+
+nav button span{font-size:20px}
+nav button.ativo{color:var(--amarelo)}
+
+.campo{
+ display:grid;
+ gap:7px;
+ margin:13px 0;
+}
+
+.campo label{
+ color:var(--cinza);
+ font-size:12px;
+}
+
+input,select{
+ background:#0c0e0b;
+ color:white;
+ border:1px solid #414337;
+ padding:13px;
+ border-radius:10px;
+ width:100%;
+}
+
+input:focus,select:focus{
+ outline:1px solid var(--amarelo);
+}
+
+.grade-form{
+ display:grid;
+ grid-template-columns:1fr 1fr;
+ gap:10px;
+}
+
+.linha{
+ display:flex;
+ justify-content:space-between;
+ align-items:center;
+ gap:10px;
+ padding:13px 0;
+ border-bottom:1px solid var(--borda);
+}
+
+.tag{
+ color:var(--amarelo);
+ border:1px solid #665b20;
+ border-radius:20px;
+ padding:5px 10px;
+ font-size:10px;
+}
+
+.resultado{
+ background:#28291d;
+ border:1px solid #665b20;
+ border-radius:13px;
+ padding:16px;
+ margin-top:14px;
+}
+
+.oculto{display:none}
+
+.vazio{
+ text-align:center;
+ padding:25px;
+ color:var(--cinza);
+ background:var(--card);
+ border-radius:14px;
+}
+
+.acoes{
+ display:flex;
+ flex-wrap:wrap;
+ gap:8px;
+}
+
+.alerta{
+ color:var(--cinza);
+ font-size:11px;
+ line-height:1.5;
+ margin-top:15px;
+}
+
+.exercicio{
+ display:flex;
+ align-items:center;
+ gap:12px;
+}
+
+.ex-img{
+ width:55px;
+ height:55px;
+ background:var(--card2);
+ border-radius:12px;
+ display:grid;
+ place-items:center;
+ font-size:25px;
+}
+
+@media(max-width:500px){
+ main{padding:17px 13px}
+ .hero{padding:23px;min-height:260px}
+ .grade-form{grid-template-columns:1fr}
+ nav button{font-size:9px}
+}
+</style>
+</head>
+
+<body>
+
+<div class="app">
+
+<header>
+ <div class="logo">
+  MZ<span>.</span>
+  <small>FITNESS · TREINO INTELIGENTE</small>
+ </div>
+ <div class="avatar" id="avatar">MZ</div>
+</header>
+
+<main id="conteudo"></main>
+
+<nav>
+ <div class="nav-in">
+  <button class="ativo" data-pagina="inicio">
+   <span>⌂</span>Início
+  </button>
+  <button data-pagina="treinos">
+   <span>▤</span>Treinos
+  </button>
+  <button data-pagina="evolucao">
+   <span>↗</span>Evolução
+  </button>
+  <button data-pagina="calculos">
+   <span>∑</span>Cálculos
+  </button>
+  <button data-pagina="alunos">
+   <span>♙</span>Alunos
+  </button>
+ </div>
+</nav>
+
+</div>
+
+<script>
+
+// =====================================
+// MZ FITNESS - SISTEMA PRINCIPAL
+// =====================================
+
+const conteudo=document.getElementById("conteudo");
+
+function ler(chave,padrao){
+ try{
+  return JSON.parse(localStorage.getItem("mz_"+chave)) ?? padrao;
+ }catch(e){return padrao;}
+}
+
+function salvar(chave,dados){
+ localStorage.setItem("mz_"+chave,JSON.stringify(dados));
+}
+
+let perfil=ler("perfil",{
+ nome:"Atleta MZ",
+ peso:83,
+ altura:1.70,
+ objetivo:"Hipertrofia"
+});
+
+let alunos=ler("alunos",[]);
+let medidas=ler("medidas",[]);
+
+let fichas=ler("fichas",[
+ {
+  nome:"TREINO A - PEITO E TRÍCEPS",
+  exercicios:"Supino reto; Supino inclinado; Crucifixo; Tríceps corda"
+ },
+ {
+  nome:"TREINO B - COSTAS E BÍCEPS",
+  exercicios:"Puxada alta; Remada; Serrote; Rosca direta"
+ },
+ {
+  nome:"TREINO C - PERNAS",
+  exercicios:"Agachamento; Leg press; Extensora; Mesa flexora"
+ },
+ {
+  nome:"TREINO D - OMBROS E ABDÔMEN",
+  exercicios:"Desenvolvimento; Elevação lateral; Face pull; Prancha"
+ }
+]);
+
+let biblioteca=ler("biblioteca",[
+ "Supino reto",
+ "Supino inclinado",
+ "Crucifixo",
+ "Puxada alta",
+ "Remada baixa",
+ "Remada curvada",
+ "Agachamento",
+ "Leg press",
+ "Cadeira extensora",
+ "Mesa flexora",
+ "Desenvolvimento",
+ "Elevação lateral",
+ "Rosca direta",
+ "Tríceps corda",
+ "Prancha"
+]);
+
+let pagina="inicio";
+
+// =====================================
+// NAVEGAÇÃO
+// =====================================
+
+document.querySelectorAll("nav button").forEach(botao=>{
+ botao.addEventListener("click",()=>{
+  pagina=botao.dataset.pagina;
+
+  document.querySelectorAll("nav button").forEach(b=>{
+   b.classList.remove("ativo");
+  });
+
+  botao.classList.add("ativo");
+  renderizar();
+ });
+});
+
+function ir(p){
+ pagina=p;
+
+ document.querySelectorAll("nav button").forEach(b=>{
+  b.classList.toggle("ativo",b.dataset.pagina===p);
+ });
+
+ renderizar();
+}
+
+function titulo(etapa,nome,descricao=""){
+ return `
+ <div class="etiqueta">${etapa}</div>
+ <h1 class="titulo">${nome}</h1>
+ ${descricao?`<p class="muted">${descricao}</p>`:""}
+ `;
+}
+
+// =====================================
+// TELA INICIAL
+// =====================================
+
+function inicio(){
+
+ return `
+ <section class="hero">
+
+  <div class="etiqueta">FORÇA · FOCO · MOVIMENTO</div>
+
+  <h1>Seu ritmo.<br>Seu próximo nível.</h1>
+
+  <p>
+   Cada passo conta.
+   O seu próximo treino começa aqui.
+   Construa sua melhor versão.
+  </p>
+
+  <div>
+   <button class="btn" onclick="ir('treinos')">
+    ACESSAR MEUS TREINOS →
+   </button>
+  </div>
+
+ </section>
+
+ <div class="cards">
+
+  <div class="card">
+   <div class="muted">PESO ATUAL</div>
+   <div class="numero">${perfil.peso} kg</div>
+   <span class="tag">${perfil.objetivo}</span>
+  </div>
+
+  <div class="card">
+   <div class="muted">ALUNOS</div>
+   <div class="numero">${alunos.length}</div>
+   <span class="muted">Cadastrados</span>
+  </div>
+
+  <div class="card">
+   <div class="muted">FICHAS DE TREINO</div>
+   <div class="numero">${fichas.length}</div>
+   <span class="muted">Disponíveis</span>
+  </div>
+
+  <div class="card">
+   <div class="muted">EVOLUÇÃO</div>
+   <div class="numero">${medidas.length}</div>
+   <span class="muted">Registros realizados</span>
+  </div>
+
+ </div>
+
+ <div class="secao">
+  <h2>Explore o MZ FITNESS</h2>
+ </div>
+
+ <div class="menu-cards">
+
+  <button class="menu-card" onclick="ir('treinos')">
+   <div class="icone">🏋️</div>
+   <strong>Meus treinos</strong>
+   <small>Fichas e exercícios</small>
+  </button>
+
+  <button class="menu-card" onclick="ir('evolucao')">
+   <div class="icone">📈</div>
+   <strong>Minha evolução</strong>
+   <small>Peso e medidas</small>
+  </button>
+
+  <button class="menu-card" onclick="ir('calculos')">
+   <div class="icone">🧮</div>
+   <strong>Calculadoras</strong>
+   <small>IMC e metabolismo</small>
+  </button>
+
+  <button class="menu-card" onclick="ir('alunos')">
+   <div class="icone">👥</div>
+   <strong>Área de alunos</strong>
+   <small>Cadastro e gestão</small>
+  </button>
+
+ </div>
+
+ <p class="alerta">
+ MZ FITNESS — Treino inteligente.
+ </p>
+ `;
+}
+
+// =====================================
+// TREINOS
+// =====================================
+
+function telaTreinos(){
+
+ let html=`
+ ${titulo("MZ FITNESS / TREINAMENTO","Meus treinos",
+ "Organize sua rotina e acompanhe seus exercícios.")}
+
+ <div class="acoes">
+  <button class="btn" onclick="novaFicha()">+ Nova ficha</button>
+  <button class="btn-sec" onclick="novoExercicio()">+ Exercício</button>
+ </div>
+ `;
+
+ fichas.forEach((f,i)=>{
+  html+=`
+  <div class="card">
+   <div class="linha">
+    <strong>${f.nome}</strong>
+    <span class="tag">FICHA ${String.fromCharCode(65+i)}</span>
+   </div>
+
+   <p class="muted">${f.exercicios}</p>
+
+   <div class="acoes">
+    <button class="btn-sec" onclick="editarFicha(${i})">Editar</button>
+    <button class="btn-sec" onclick="excluirFicha(${i})">Excluir</button>
+   </div>
+  </div>
+  `;
+ });
+
+ html+=`
+ <div class="secao">
+  <h2>Biblioteca de exercícios</h2>
+ </div>
+ <div class="card">
+ `;
+
+ biblioteca.forEach(ex=>{
+  html+=`
+  <div class="linha">
+   <div class="exercicio">
+    <div class="ex-img">🏋️</div>
+    <strong>${ex}</strong>
+   </div>
+   <span class="tag">EXERCÍCIO</span>
+  </div>
+  `;
+ });
+
+ html+="</div>";
+
+ return html;
+}
+
+function novaFicha(){
+
+ let nome=prompt("Nome da nova ficha:");
+
+ if(!nome)return;
+
+ let exercicios=prompt("Digite os exercícios separados por ponto e vírgula:");
+
+ fichas.push({nome,exercicios:exercicios||""});
+
+ salvar("fichas",fichas);
+ renderizar();
+}
+
+function editarFicha(i){
+
+ let nome=prompt("Nome da ficha:",fichas[i].nome);
+
+ if(nome===null)return;
+
+ let exercicios=prompt("Exercícios:",fichas[i].exercicios);
+
+ fichas[i]={
+  nome,
+  exercicios:exercicios===null?fichas[i].exercicios:exercicios
+ };
+
+ salvar("fichas",fichas);
+ renderizar();
+}
+
+function excluirFicha(i){
+
+ if(confirm("Deseja excluir esta ficha?")){
+  fichas.splice(i,1);
+  salvar("fichas",fichas);
+  renderizar();
+ }
+}
+
+function novoExercicio(){
+
+ let nome=prompt("Nome do exercício:");
+
+ if(nome){
+  biblioteca.push(nome);
+  salvar("biblioteca",biblioteca);
+  renderizar();
+ }
+}
+
+// =====================================
+// EVOLUÇÃO
+// =====================================
+
+function telaEvolucao(){
+
+ return `
+ ${titulo("MZ FITNESS / PROGRESSO","Minha evolução",
+ "Acompanhe seu desenvolvimento físico.")}
+
+ <div class="card">
+
+  <h2>Registrar medidas</h2>
+
+  <form id="formMedidas">
+
+   <div class="grade-form">
+
+    <div class="campo">
+     <label>Peso (kg)</label>
+     <input name="peso" type="number" step=".1" required>
+    </div>
+
+    <div class="campo">
+     <label>Cintura (cm)</label>
+     <input name="cintura" type="number" step=".1">
+    </div>
+
+    <div class="campo">
+     <label>Peito (cm)</label>
+     <input name="peito" type="number" step=".1">
+    </div>
+
+    <div class="campo">
+     <label>Braço (cm)</label>
+     <input name="braco" type="number" step=".1">
+    </div>
+
+   </div>
+
+   <button class="btn">SALVAR EVOLUÇÃO</button>
+
+  </form>
+
+ </div>
+
+ <div class="secao">
+  <h2>Histórico</h2>
+ </div>
+
+ ${medidas.length===0?
+ `<div class="vazio">Nenhuma medição registrada.</div>`:
+ medidas.slice().reverse().map(m=>`
+ <div class="card">
+  <div class="linha">
+   <strong>${m.peso} kg</strong>
+   <span class="muted">${m.data}</span>
+  </div>
+  <p class="muted">
+   Cintura: ${m.cintura||"-"} cm |
+   Peito: ${m.peito||"-"} cm |
+   Braço: ${m.braco||"-"} cm
+  </p>
+ </div>
+ `).join("")}
+
+ <div class="secao">
+  <h2>Perfil do atleta</h2>
+ </div>
+
+ <div class="card">
+  <form id="formPerfil">
+
+   <div class="campo">
+    <label>Nome</label>
+    <input name="nome" value="${perfil.nome}" required>
+   </div>
+
+   <div class="grade-form">
+
+    <div class="campo">
+     <label>Altura (metros)</label>
+     <input name="altura" type="number" step=".01"
+     value="${perfil.altura}" required>
+    </div>
+
+    <div class="campo">
+     <label>Objetivo</label>
+     <select name="objetivo">
+      <option>Hipertrofia</option>
+      <option>Emagrecimento</option>
+      <option>Condicionamento</option>
+     </select>
+    </div>
+
+   </div>
+
+   <button class="btn">ATUALIZAR PERFIL</button>
+
+  </form>
+ </div>
+ `;
+}
+
+// =====================================
+// CALCULADORAS
+// =====================================
+
+function telaCalculos(){
+
+ return `
+ ${titulo("MZ FITNESS / FERRAMENTAS","Calculadoras",
+ "Ferramentas para acompanhar seus indicadores.")}
+
+ <div class="card">
+
+  <h2>Calculadora de IMC</h2>
+
+  <form id="formIMC">
+
+   <div class="campo">
+    <label>Peso em kg</label>
+    <input name="peso" type="number" step=".1" min="1" required>
+   </div>
+
+   <div class="campo">
+    <label>Altura em metros</label>
+    <input name="altura" type="number" step=".01" min=".5" max="2.8" required>
+   </div>
+
+   <button class="btn">CALCULAR IMC</button>
+
+  </form>
+
+  <div id="resultadoIMC"></div>
+
+  <p class="alerta">
+   O IMC é uma referência geral. Ele não diferencia
+   massa muscular de gordura e não é um diagnóstico.
+  </p>
+
+ </div>
+
+ <div class="card">
+
+  <h2>Metabolismo basal</h2>
+
+  <form id="formBasal">
+
+   <div class="campo">
+    <label>Peso (kg)</label>
+    <input name="peso" type="number" step=".1" required>
+   </div>
+
+   <div class="campo">
+    <label>Altura (cm)</label>
+    <input name="altura" type="number" required>
+   </div>
+
+   <div class="campo">
+    <label>Idade</label>
+    <input name="idade" type="number" min="15" max="100" required>
+   </div>
+
+   <div class="campo">
+    <label>Sexo biológico para a fórmula</label>
+    <select name="sexo">
+     <option value="m">Masculino</option>
+     <option value="f">Feminino</option>
+    </select>
+   </div>
+
+   <button class="btn">CALCULAR METABOLISMO</button>
+
+  </form>
+
+  <div id="resultadoBasal"></div>
+
+  <p class="alerta">
+   Estimativa pela equação de Mifflin-St Jeor.
+   Não substitui avaliação profissional.
+  </p>
+
+ </div>
+ `;
+}
+
+// =====================================
+// ÁREA DE ALUNOS
+// =====================================
+
+function telaAlunos(){
+
+ return `
+ ${titulo("MZ FITNESS / ADMINISTRAÇÃO","Gestão de alunos",
+ "Cadastre e acompanhe os membros.")}
+
+ <div class="card">
+
+  <h2>Novo cadastro</h2>
+
+  <form id="formAluno">
+
+   <div class="campo">
+    <label>Nome completo</label>
+    <input name="nome" required>
+   </div>
+
+   <div class="campo">
+    <label>E-mail</label>
+    <input name="email" type="email">
+   </div>
+
+   <div class="campo">
+    <label>Telefone</label>
+    <input name="telefone">
+   </div>
+
+   <div class="campo">
+    <label>Plano</label>
+    <select name="plano">
+     <option>Mensal</option>
+     <option>Trimestral</option>
+     <option>Semestral</option>
+     <option>Anual</option>
+     <option>Experimental</option>
+    </select>
+   </div>
+
+   <div class="campo">
+    <label>Objetivo</label>
+    <select name="objetivo">
+     <option>Hipertrofia</option>
+     <option>Emagrecimento</option>
+     <option>Condicionamento</option>
+     <option>Saúde e bem-estar</option>
+    </select>
+   </div>
+
+   <div class="campo">
+    <label>Status</label>
+    <select name="status">
+     <option>Ativo</option>
+     <option>Pendente</option>
+     <option>Inativo</option>
+    </select>
+   </div>
+
+   <button class="btn">CADASTRAR ALUNO</button>
+
+  </form>
+
+ </div>
+
+ <div class="secao">
+  <h2>Alunos cadastrados (${alunos.length})</h2>
+ </div>
+
+ ${alunos.length===0?
+ `<div class="vazio">Nenhum aluno cadastrado.</div>`:
+ alunos.map((a,i)=>`
+ <div class="card">
+
+  <div class="linha">
+   <strong>${a.nome}</strong>
+   <span class="tag">${a.status}</span>
+  </div>
+
+  <p class="muted">
+   ${a.email||"Sem e-mail"}<br>
+   ${a.telefone||"Sem telefone"}
+  </p>
+
+  <div class="linha">
+   <span class="muted">${a.plano} · ${a.objetivo}</span>
+   <button class="btn-sec" onclick="excluirAluno(${i})">
+    Excluir
+   </button>
+  </div>
+
+ </div>
+ `).join("")}
+
+ <p class="alerta">
+ Esta versão salva os dados apenas no navegador.
+ Para utilização comercial será necessário implementar
+ login, banco de dados seguro e controle de permissões.
+ </p>
+ `;
+}
+
+// =====================================
+// FORMULÁRIOS E CÁLCULOS
+// =====================================
+
+function conectarFormularios(){
+
+ const fm=document.getElementById("formMedidas");
+
+ if(fm){
+  fm.onsubmit=e=>{
+   e.preventDefault();
+
+   let d=Object.fromEntries(new FormData(fm));
+
+   perfil.peso=Number(d.peso);
+
+   medidas.push({
+    ...d,
+    data:new Date().toLocaleDateString("pt-BR")
+   });
+
+   salvar("perfil",perfil);
+   salvar("medidas",medidas);
+
+   renderizar();
+  };
+ }
+
+ const fp=document.getElementById("formPerfil");
+
+ if(fp){
+  fp.onsubmit=e=>{
+   e.preventDefault();
+
+   let d=Object.fromEntries(new FormData(fp));
+
+   perfil={...perfil,...d};
+   perfil.altura=Number(d.altura);
+
+   salvar("perfil",perfil);
+   renderizar();
+  };
+ }
+
+ const fa=document.getElementById("formAluno");
+
+ if(fa){
+  fa.onsubmit=e=>{
+   e.preventDefault();
+
+   alunos.push(
+    Object.fromEntries(new FormData(fa))
+   );
+
+   salvar("alunos",alunos);
+   renderizar();
+  };
+ }
+
+ const fi=document.getElementById("formIMC");
+
+ if(fi){
+  fi.onsubmit=e=>{
+   e.preventDefault();
+
+   let d=Object.fromEntries(new FormData(fi));
+
+   let imc=Number(d.peso)/(Number(d.altura)**2);
+
+   let classificacao=
+    imc<18.5?"Abaixo do peso":
+    imc<25?"Faixa considerada adequada":
+    imc<30?"Sobrepeso":
+    imc<35?"Obesidade grau I":
+    imc<40?"Obesidade grau II":
+    "Obesidade grau III";
+
+   document.getElementById("resultadoIMC").innerHTML=`
+    <div class="resultado">
+     <div class="etiqueta">SEU RESULTADO</div>
+     <div class="numero">${imc.toFixed(1)}</div>
+     <strong>${classificacao}</strong>
+    </div>
+   `;
+  };
+ }
+
+ const fb=document.getElementById("formBasal");
+
+ if(fb){
+  fb.onsubmit=e=>{
+   e.preventDefault();
+
+   let d=Object.fromEntries(new FormData(fb));
+
+   let resultado=
+    10*Number(d.peso)+
+    6.25*Number(d.altura)-
+    5*Number(d.idade)+
+    (d.sexo==="m"?5:-161);
+
+   document.getElementById("resultadoBasal").innerHTML=`
+    <div class="resultado">
+     <div class="etiqueta">METABOLISMO BASAL ESTIMADO</div>
+     <div class="numero">${Math.round(resultado)} kcal/dia</div>
+    </div>
+   `;
+  };
+ }
+}
+
+// =====================================
+// EXCLUSÃO DE ALUNOS
+// =====================================
+
+function excluirAluno(i){
+
+ if(confirm("Deseja excluir este aluno?")){
+  alunos.splice(i,1);
+  salvar("alunos",alunos);
+  renderizar();
+ }
+}
+
+// =====================================
+// RENDERIZAÇÃO
+// =====================================
+
+function renderizar(){
+
+ document.getElementById("avatar").textContent=
+ (perfil.nome||"MZ")
+ .split(" ")
+ .map(x=>x[0])
+ .join("")
+ .slice(0,2)
+ .toUpperCase();
+
+ if(pagina=
